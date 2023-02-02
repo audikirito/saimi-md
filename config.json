@@ -1,0 +1,18 @@
+{
+  "ownerNumber":  ["6283896480283@s.whatsapp.net","6283896480283@s.whatsapp.net","6283896480283@s.whatsapp.net"],
+  "numberOwner": "083896480283",
+  "botName": "•AUDIKIRITO• - Bot",
+  "packname" : "®AUDIKIRITO",
+  "author" : "AUDI",
+  "Prefix" : "Multi",
+  "sessionName": "botindo",
+  "Mode": "Public",
+  "pathImg": "./media/bobi.jpg",
+  "fakeImg": "./media/fake.jpg",
+  "gamewaktu": 60,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 100,
+	"user": 15
+  }
+}
